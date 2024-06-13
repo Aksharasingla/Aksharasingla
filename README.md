@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPritamSarbajna%2FCoding-platforms-Solution&psig=AOvVaw24OHpsTCgOk72COGrzlruy&ust=1718393266597000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDYif6n2YYDFQAAAAAdAAAAABAY)]
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
 <h1 align="center">Hi 👋, I'm Akshara Singla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400"src="https://camo.githubusercontent.com/6b2c2aa0d470088d4a692ffcc251ea550562ca44845d2c9ee1bc5506af234e23/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d32625a496a5047432d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e676966">
@@ -31,6 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aksharasingla&show_icons=true&locale=en" alt="aksharasingla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aksharasingla&" alt="aksharasingla" /></p>
+
 
 
 
